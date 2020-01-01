@@ -1,0 +1,19 @@
+{
+  "name": "charlesng/hello-composer",
+  "description": "Hello composer ",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "charlesng",
+      "email": "charlesng0209@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {
+      "charlesng\\HelloWorld\\": "src/"
+    }
+  },
+  "require": {}
+}
