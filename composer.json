@@ -9,8 +9,8 @@
       "email": "charlesng0209@gmail.com"
     }
   ],
-  "version": "0.0.1",
-  "minimum-stability": "dev",
+  "version": "1.0.0",
+  "minimum-stability": "stable",
   "autoload": {
     "psr-4": {
       "charlesng\\HelloWorld\\": "src/"
